@@ -1,2 +1,2 @@
 # kube-sds
-Software defined storage for kube-stack.
+Software-defined storage controller for kube-stack.
